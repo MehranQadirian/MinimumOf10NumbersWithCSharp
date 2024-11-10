@@ -1,0 +1,7 @@
+C:\Users\Diamond\Documents\Simple Project C#\Minimum of 10 numbers\Minimum of 10 numbers\bin\Debug\Minimum of 10 numbers.exe.config
+C:\Users\Diamond\Documents\Simple Project C#\Minimum of 10 numbers\Minimum of 10 numbers\bin\Debug\Minimum of 10 numbers.exe
+C:\Users\Diamond\Documents\Simple Project C#\Minimum of 10 numbers\Minimum of 10 numbers\bin\Debug\Minimum of 10 numbers.pdb
+C:\Users\Diamond\Documents\Simple Project C#\Minimum of 10 numbers\Minimum of 10 numbers\obj\Debug\Minimum of 10 numbers.csprojAssemblyReference.cache
+C:\Users\Diamond\Documents\Simple Project C#\Minimum of 10 numbers\Minimum of 10 numbers\obj\Debug\Minimum of 10 numbers.csproj.CoreCompileInputs.cache
+C:\Users\Diamond\Documents\Simple Project C#\Minimum of 10 numbers\Minimum of 10 numbers\obj\Debug\Minimum of 10 numbers.exe
+C:\Users\Diamond\Documents\Simple Project C#\Minimum of 10 numbers\Minimum of 10 numbers\obj\Debug\Minimum of 10 numbers.pdb
